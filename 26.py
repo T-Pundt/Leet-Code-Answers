@@ -1,5 +1,6 @@
 def main():
-    nums = [0,0,0,0,3]
+    nums = [0,0,0,0,3] #bad algorithm, just start over and do a bubble sort method instead
+
 
     if len(set(nums)) == 1:
         return 1
