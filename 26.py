@@ -1,5 +1,5 @@
 def main():
-    nums = [1,1,2]  # bad algorithm, just start over and do a bubble sort method instead
+    nums = [1,1,2]
 
     k = 1
     for i in range(1, len(nums)):
